@@ -12,4 +12,4 @@ Memahami GitHub
   -Git Pages
   -Git Ignore
   -Git Rebase
-  
+  -Git Itu apa? ya ndak tau kok tanyak saia
