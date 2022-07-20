@@ -13,3 +13,5 @@ Memahami GitHub
   -Git Ignore
   -Git Rebase
   -Git Itu apa? ya ndak tau kok tanyak saia
+  saya akan tambahkan sedikit, Git jelas berbeda dengan GitHub..
+  dah cuma itu yang saya tau:v
